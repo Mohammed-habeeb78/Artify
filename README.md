@@ -26,11 +26,6 @@ Just type what you imagine → click **Generate** → the AI creates the image f
 
 ---
 
-## 📌 Screenshot (Optional)
-_Add a screenshot here if available_
-
----
-
 ## 📂 Folder Structure
 
 src/
